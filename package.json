@@ -1,0 +1,20 @@
+{
+  "name": "classes-Inheritance-FunctionalProgramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-AhmadK/classes-Inheritance-FunctionalProgramming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-AhmadK/classes-Inheritance-FunctionalProgramming/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-AhmadK/classes-Inheritance-FunctionalProgramming#readme"
+}
